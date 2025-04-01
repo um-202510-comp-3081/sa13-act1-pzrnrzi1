@@ -1,0 +1,14 @@
+body {
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.gallery img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+.highlights ul {
+    list-style-type: none;
+}

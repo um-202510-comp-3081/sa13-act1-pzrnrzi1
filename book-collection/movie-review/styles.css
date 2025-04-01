@@ -1,0 +1,14 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.movie-details img {
+    width: 150px;
+    height: auto;
+}
+.reviews {
+    background-color: lightgray;
+    padding: 20px;
+}
